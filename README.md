@@ -26,8 +26,7 @@ LeafLegacy E-commerce Website UI Design is tailored for plant lovers, providing 
 
 ## Screenshots
 
-![LeafLegacy ](https://github.com/Jeevannaik66/-LeafLegacy-E-commerce-Website-UI-Design/assets/117274229/0d7dfb2a-bc00-4731-ad5e-27d6d8d47a5b)
-
+![LeafLegacy](https://github.com/Jeevannaik66/-LeafLegacy-E-commerce-Website-UI-Design/assets/117274229/a2ce29eb-d74a-4957-b4f8-ab50541f01d0)
 
 ## Usage
 
