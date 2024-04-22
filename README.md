@@ -26,7 +26,8 @@ LeafLegacy E-commerce Website UI Design is tailored for plant lovers, providing 
 
 ## Screenshots
 
-Insert screenshots showcasing various screens of the e-commerce website, including the home page, product listings, product details, shopping cart, and checkout process.
+![LeafLegacy ](https://github.com/Jeevannaik66/-LeafLegacy-E-commerce-Website-UI-Design/assets/117274229/0d7dfb2a-bc00-4731-ad5e-27d6d8d47a5b)
+
 
 ## Usage
 
